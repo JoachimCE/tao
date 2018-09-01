@@ -3,7 +3,7 @@ Back-End Verion
 
 
 -----------------------------------------------------
-Instruction concernant la conception de l'api rest  -
+Instruction concernant la conception de l'api rest  
 -----------------------------------------------------
 
 Objectif :
@@ -13,7 +13,7 @@ Créer une api rest qui retourne la liste des utilisateurs contenu dans la sourc
 
 
 --------------------------
-Spécification techniques -
+Spécification techniques 
 --------------------------
 
 Utilisation de méthode GET
