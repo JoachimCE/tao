@@ -1,10 +1,6 @@
-**************************************
-*                                    *
-*    TAO Pratical Exercise Client    *
-*                                    *
-*           Back-End Verion          *
-*                                    *
-**************************************
+TAO Pratical Exercise Client    
+Back-End Verion          
+
 
 -----------------------------------------------------
 Instruction concernant la conception de l'api rest  -
